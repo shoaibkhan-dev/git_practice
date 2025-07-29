@@ -11,3 +11,9 @@ function updaateCartCount(){
     const count = cart.reduce((sum, item) => sum + item.qty, 0);
     
 }
+
+const original = "shoaib"
+const reverse = "";
+for(let i = 0; i <=  original.length; i--){
+   const original = reverse;
+}
