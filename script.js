@@ -17,3 +17,5 @@ const reverse = "";
 for(let i = 0; i <=  original.length; i--){
    const original = reverse;
 }
+
+console.log(original)
