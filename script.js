@@ -26,3 +26,16 @@ function updaateCartCount(){
     const count = cart.reduce((sum, item) => sum + item.qty, 0);
     
 }
+
+function updaateCartCount(){
+    const cart = getcart()
+    const count = cart.reduce((sum, item) => sum + item.qty, 0);
+    
+}
+
+function updaateCartCount(){
+    const cart = getcart()
+    const count = cart.reduce((sum, item) => sum + item.qty, 0);
+    cart.JSON
+    
+}
