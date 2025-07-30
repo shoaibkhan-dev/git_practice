@@ -19,3 +19,10 @@ for(let i = 0; i <=  original.length; i--){
 }
 
 console.log(original)
+
+
+function updaateCartCount(){
+    const cart = getcart()
+    const count = cart.reduce((sum, item) => sum + item.qty, 0);
+    
+}
