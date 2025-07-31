@@ -48,3 +48,8 @@ console.log(array)
 let arrays = [1,2,3,4,5]
 array.push()
 console.log(array)
+
+
+let arr = [1,2,3,4,5]
+array.push(7)
+console.log(array)
