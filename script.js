@@ -43,3 +43,8 @@ function updaateCartCount(){
 let array = [1,2,3,4,5]
 array.pop()
 console.log(array)
+
+
+let arrays = [1,2,3,4,5]
+array.push()
+console.log(array)
