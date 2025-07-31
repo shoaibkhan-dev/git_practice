@@ -53,3 +53,10 @@ console.log(array)
 let arr = [1,2,3,4,5]
 array.push(7)
 console.log(array)
+
+function updaateCartCount(){
+    const cart = getcart()
+    const count = cart.reduce((sum, item) => sum + item.qty, 0);
+    cart.JSON
+    
+}
