@@ -66,3 +66,12 @@ function add(){
   return 23 % 34
 }
 console.log(add())
+
+
+person = {
+    name: "shoaib",
+    rollNo: 1,
+    age: 23,
+    location: "peshawar"
+}
+
