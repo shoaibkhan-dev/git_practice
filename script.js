@@ -60,3 +60,9 @@ function updaateCartCount(){
     cart.JSON
     
 }
+
+
+function add(){
+  return 23 % 34
+}
+console.log(add())
